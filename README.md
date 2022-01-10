@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @work-tejas1
 - 👀 I’m interested in QA Automation
-- 🌱 I’m currently learning Cypress.
+- 🌱 I’m using Cypress.
 
 
